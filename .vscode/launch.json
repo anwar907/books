@@ -1,0 +1,37 @@
+// {
+//     "version": "0.1.0",
+//     "configurations": [
+//         {
+//             "name": "Debug",
+//             "program": "lib/main.dart",
+//             "request": "launch",
+//             "type": "dart", // Arguments to be passed to the Dart or Flutter app.
+//             "args": [
+               
+//             ],
+//         },
+//         {
+//             "name": "Profile",
+//             "program": "lib/main.dart",
+//             "request": "launch",
+//             "type": "dart", // Arguments to be passed to the Dart or Flutter app.
+//             "args": [
+                
+//             ],
+//         },
+//         {
+//             "name": "Production",
+//             "program": "lib/main.dart",
+//             "request": "launch",
+//             "type": "dart", // Arguments to be passed to the Dart or Flutter app.
+//             "args": [
+               
+//             ],
+//         },
+//         {
+//             "name": "Flutter: Attach to Device",
+//             "type": "dart",
+//             "request": "attach"
+//         },
+//     ]
+// }
